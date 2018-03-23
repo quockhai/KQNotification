@@ -1,12 +1,11 @@
 # KQNotification
-<p align="center">
-<img src="https://img.shields.io/badge/platform-iOS%208%2B-blue.svg?style=flat" alt="Platform: iOS 10+"/>
-<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/language-swift%203-4BC51D.svg?style=flat" alt="Language: Swift 3" /></a>
-<img src="http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat" alt="License: MIT" /> <br><br>
-</p>
-
 A Swift class which helps you create local, daily, weekly notifications and add actions for user notification easily.
 
+<p align="center">
+<img src="https://img.shields.io/badge/platform-iOS%2010%2B-blue.svg?style=flat" alt="Platform: iOS 10+"/>
+<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/language-swift%204-orange.svg?style=flat" alt="Language: Swift 4" /></a>
+<img src="http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat" alt="License: MIT" /> <br><br>
+</p>
 
 ## Installation
   [Download](https://github.com/quockhai/KQNotification/archive/master.zip) the project and copy the Source folder into your project and then simply you can use it in any file
