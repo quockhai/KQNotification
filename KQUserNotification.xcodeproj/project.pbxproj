@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4518763B2065646E00800939 /* KQNotification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KQNotification.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4518763B2065646E00800939 /* KQUserNotification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KQUserNotification.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4518763E2065646E00800939 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		451876402065646E00800939 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		451876432065646E00800939 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		4518763C2065646E00800939 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4518763B2065646E00800939 /* KQNotification.app */,
+				4518763B2065646E00800939 /* KQUserNotification.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4518763A2065646E00800939 /* KQNotification */ = {
+		4518763A2065646E00800939 /* KQUserNotification */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4518764D2065646E00800939 /* Build configuration list for PBXNativeTarget "KQNotification" */;
+			buildConfigurationList = 4518764D2065646E00800939 /* Build configuration list for PBXNativeTarget "KQUserNotification" */;
 			buildPhases = (
 				451876372065646E00800939 /* Sources */,
 				451876382065646E00800939 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = KQNotification;
+			name = KQUserNotification;
 			productName = KQNotification;
-			productReference = 4518763B2065646E00800939 /* KQNotification.app */;
+			productReference = 4518763B2065646E00800939 /* KQUserNotification.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 451876362065646E00800939 /* Build configuration list for PBXProject "KQNotification" */;
+			buildConfigurationList = 451876362065646E00800939 /* Build configuration list for PBXProject "KQUserNotification" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4518763A2065646E00800939 /* KQNotification */,
+				4518763A2065646E00800939 /* KQUserNotification */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		451876362065646E00800939 /* Build configuration list for PBXProject "KQNotification" */ = {
+		451876362065646E00800939 /* Build configuration list for PBXProject "KQUserNotification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4518764B2065646E00800939 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4518764D2065646E00800939 /* Build configuration list for PBXNativeTarget "KQNotification" */ = {
+		4518764D2065646E00800939 /* Build configuration list for PBXNativeTarget "KQUserNotification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4518764E2065646E00800939 /* Debug */,

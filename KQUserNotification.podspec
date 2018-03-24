@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name             = 'KQNotification'
+s.name             = 'KQUserNotification'
 s.version          = '1.0'
 s.summary          = 'Local Notification - Create local, daily, weekly notifications.'
 

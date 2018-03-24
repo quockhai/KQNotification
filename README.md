@@ -10,6 +10,15 @@ A Swift class which helps you create local, daily, weekly notifications and add 
 ## Installation
   [Download](https://github.com/quockhai/KQNotification/archive/master.zip) the project and copy the Source folder into your project and then simply you can use it in any file
 
+#### Cocoapods
+
+```swift
+platform :ios, '10.0'
+use_frameworks!
+
+pod 'KQNotification'
+```
+
 ## Usage
 
 ### Register
