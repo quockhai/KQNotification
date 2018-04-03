@@ -16,7 +16,7 @@ A Swift class which helps you create local, daily, weekly notifications and add 
 platform :ios, '10.0'
 use_frameworks!
 
-pod 'KQNotification'
+pod 'KQUserNotification'
 ```
 
 ## Usage
